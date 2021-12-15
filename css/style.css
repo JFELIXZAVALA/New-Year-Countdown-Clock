@@ -4,7 +4,7 @@ html {
   height: 100%;
   color: rgb(255, 255, 255);
   font-family: "Montserrat", sans-serif;
-  background: url("/nybackground.jpg");
+  background: url("img/nybackground.jpg");
   background-repeat: no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
