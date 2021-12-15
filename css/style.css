@@ -37,7 +37,7 @@ html {
   html {
     width: 100%;
     font-family: "Montserrat", sans-serif;
-    background-image: url("/nybackground.jpg");
+    background-image: url("img/nybackground.jpg");
     background-repeat: no-repeat center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -52,7 +52,7 @@ html {
     max-width: 2000px;
     height: 100%;
     font-family: "Montserrat", sans-serif;
-    background-image: url("/nybackground.jpg");
+    background-image: url("img/nybackground.jpg");
     background-repeat: no-repeat fixed;
     background-position: center;
     -webkit-background-size: cover;
